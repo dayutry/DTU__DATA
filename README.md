@@ -3,5 +3,7 @@ DTU液位采集监控服务，Python + Flask + SQLite，接收Modbus 4-20mA液�
 
 ## 运行
 
+# 安装依赖
 pip install flask
+# 启动服务
 python dtu_server.py
